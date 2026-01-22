@@ -17020,5 +17020,15 @@
     "https://mp.weixin.qq.com/s/D2Hj1GqhvDCjrX63sNHD1A": "【安全圈】Cloudflare 零日漏洞：可绕过 WAF 访问全球任意后端主机",
     "https://mp.weixin.qq.com/s/Q5s1-1YfWoEAERbczsbL6A": "NVIDIA NSIGHT Graphics for Linux 漏洞允许代码执行攻击",
     "https://mp.weixin.qq.com/s/Uw6C-6LadvG5jzYBholWUQ": "CNNVD | 关于Oracle多个安全漏洞的通报",
-    "https://mp.weixin.qq.com/s/jY-EmFAb2CX9k_Ws1AStDQ": "【成功复现】Mailpit服务端请求伪造漏洞(CVE-2026-21859)"
+    "https://mp.weixin.qq.com/s/jY-EmFAb2CX9k_Ws1AStDQ": "【成功复现】Mailpit服务端请求伪造漏洞(CVE-2026-21859)",
+    "https://mp.weixin.qq.com/s/ntrezvylsSZyWHd7rKFrTg": "【高危漏洞预警】SmarterMail身份认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/BJiz2NU5xP6g2ix9BefFHg": "大华智能物联ICC综合管理平台evo-apigw∕evo-cirs∕file∕download接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/BXrnI0sZM92SATpmUdYkTA": "他们说这不可能，但我用 Claude 聊天就逆向提取了商业扫描器全部漏洞规则",
+    "https://mp.weixin.qq.com/s/4duPcpnWymGGnvYZkrFrgg": "GPT-5.2可规模化开发0Day漏洞利用程序，网络安全攻防格局面临颠覆",
+    "https://mp.weixin.qq.com/s/vgRuAGD7ZCehLka6qOevAw": "漏洞复现 || Mailpit服务端请求伪造",
+    "https://mp.weixin.qq.com/s/cLYZnYwasBNTTzHB82t9Mg": "特斯拉遭黑客攻击，37个零日漏洞在Pwn2Own Automotive 2026大会上被演示。",
+    "https://mp.weixin.qq.com/s/p0W9O4xwN_e1LCRAzg9b9g": "告别手动构造 Payload：Burp 文件上传漏洞测试插件，1000 + 绕过 Payload 全解析|工具分享",
+    "https://mp.weixin.qq.com/s/XGx2PYSS0JK0tleL7tFbPA": "秒获Root权限！CVE-2026-24061 批量扫描工具！",
+    "https://mp.weixin.qq.com/s/8YuFlyeuk-VJAtxO2VYgMw": "漏洞情报(已验证) | 友加畅捷 GetAccountList 存在敏感信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/soxHxzHlonxqtAoJjXiAkg": "逆天漏洞：《明日方舟：终末地》海外首日公测上线就遭遇T0级事故"
 }
