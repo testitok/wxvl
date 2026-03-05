@@ -18545,5 +18545,10 @@
     "https://mp.weixin.qq.com/s/wOqglx_EXLQt5cscuD9LWw": "【林晓月的AI安全日记-003】你在用AI看网页，网页在往你电脑写木马｜Google Antigravity浏览器扩展RCE漏洞",
     "https://mp.weixin.qq.com/s/Ev5pAUCuLEVvYA_yR2yRvA": "CVSS 10.0 FreeScout 中的未经身份验证的远程代码执行（公开概念验证）",
     "https://mp.weixin.qq.com/s/pPrB9a5bi4TknBYREgx68g": "漏洞预警 | GNU InetUtils telnetd提权漏洞",
-    "https://mp.weixin.qq.com/s/ACjsvuckOJwB-wesg5aCrA": "23个IOS漏洞打包的Coruna工具包，已完成从国家级到黑产的三级扩散"
+    "https://mp.weixin.qq.com/s/ACjsvuckOJwB-wesg5aCrA": "23个IOS漏洞打包的Coruna工具包，已完成从国家级到黑产的三级扩散",
+    "https://mp.weixin.qq.com/s/RuArJUsXdTRtFY-TwB4PjQ": "【漏洞复现】某面板新版本鉴权绕过导致远程代码执行",
+    "https://mp.weixin.qq.com/s/LLAKmMlaQbXIXyIFVzyIug": "Openclaw技术解析：自动审计用友U8C代码漏洞指南",
+    "https://mp.weixin.qq.com/s/CO2coDczUaffYg7BFsY34w": "[RCE] n8n未授权RCE+Chrome UAF 0day，今日双杀",
+    "https://mp.weixin.qq.com/s/5sxG8QzEKQI1Q7_gd40kJg": "【0day】某知名品牌运维安全管理系统 Jwt 密钥硬编码",
+    "https://mp.weixin.qq.com/s/SviX5oH7veHqAbNTXFseHQ": "深度追踪“Coruna”：一款高端 iOS 漏洞武器库的“暗网”漂流记"
 }
